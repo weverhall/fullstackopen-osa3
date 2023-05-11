@@ -1,3 +1,5 @@
+// NOT IN USE! see index.js and models/person.js
+
 const mongoose = require('mongoose')
 
 if (process.argv.length<3) {
